@@ -1,0 +1,24 @@
+Github
+correo: fredy.angarita80@gmail.com
+usuario: arjunapandu
+Clave:Rama/Hare118*
+
+
+Control Ñ, abrir la consolo de code.
+Archivo/ Autoguardado : se esta guardando automaticamente.
+
+Comandos 
+
+git --version
+git --global user.name "arjunapandu"
+git config --global user.email "fredy.angarita80@gmail.com"
+git config --global user.password "Rama/Hare118*"
+
+consola mkdir "Nombre_Nueva_carpeta"
+ls 
+
+/proyectos antes de 2020 se llamaba master/
+/main despues de 2022 /
+
+
+git status -- recomendaciones
