@@ -1,4 +1,0 @@
-Libro: despues del 3 capitulo.
-Logica-de-Programacion-Efrain-Oviedo.pdf
-
-git config user.name (Muestra la configuración del GIT)
